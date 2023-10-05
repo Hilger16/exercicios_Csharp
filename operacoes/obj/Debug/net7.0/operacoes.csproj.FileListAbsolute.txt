@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\operacoes\bin\Debug\net7.0\operacoes.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\operacoes\bin\Debug\net7.0\operacoes.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\operacoes\bin\Debug\net7.0\operacoes.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\operacoes\bin\Debug\net7.0\operacoes.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\operacoes\bin\Debug\net7.0\operacoes.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\operacoes\obj\Debug\net7.0\operacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\operacoes\obj\Debug\net7.0\operacoes.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\operacoes\obj\Debug\net7.0\operacoes.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\operacoes\obj\Debug\net7.0\operacoes.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\operacoes\obj\Debug\net7.0\operacoes.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\operacoes\obj\Debug\net7.0\refint\operacoes.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\operacoes\obj\Debug\net7.0\operacoes.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\operacoes\obj\Debug\net7.0\operacoes.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\operacoes\obj\Debug\net7.0\ref\operacoes.dll
