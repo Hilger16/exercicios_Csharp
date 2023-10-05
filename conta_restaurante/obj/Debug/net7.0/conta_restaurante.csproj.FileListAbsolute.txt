@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\conta_restaurante\bin\Debug\net7.0\conta_restaurante.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\conta_restaurante\bin\Debug\net7.0\conta_restaurante.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\conta_restaurante\bin\Debug\net7.0\conta_restaurante.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\conta_restaurante\bin\Debug\net7.0\conta_restaurante.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\conta_restaurante\bin\Debug\net7.0\conta_restaurante.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\conta_restaurante\obj\Debug\net7.0\conta_restaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\conta_restaurante\obj\Debug\net7.0\conta_restaurante.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\conta_restaurante\obj\Debug\net7.0\conta_restaurante.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\conta_restaurante\obj\Debug\net7.0\conta_restaurante.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\conta_restaurante\obj\Debug\net7.0\conta_restaurante.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\conta_restaurante\obj\Debug\net7.0\refint\conta_restaurante.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\conta_restaurante\obj\Debug\net7.0\conta_restaurante.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\conta_restaurante\obj\Debug\net7.0\conta_restaurante.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\conta_restaurante\obj\Debug\net7.0\ref\conta_restaurante.dll
