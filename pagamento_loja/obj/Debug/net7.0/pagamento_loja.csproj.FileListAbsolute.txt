@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\pagamento_loja\bin\Debug\net7.0\pagamento_loja.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\pagamento_loja\bin\Debug\net7.0\pagamento_loja.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\pagamento_loja\bin\Debug\net7.0\pagamento_loja.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\pagamento_loja\bin\Debug\net7.0\pagamento_loja.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\pagamento_loja\bin\Debug\net7.0\pagamento_loja.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\pagamento_loja\obj\Debug\net7.0\pagamento_loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\pagamento_loja\obj\Debug\net7.0\pagamento_loja.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\pagamento_loja\obj\Debug\net7.0\pagamento_loja.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\pagamento_loja\obj\Debug\net7.0\pagamento_loja.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\pagamento_loja\obj\Debug\net7.0\pagamento_loja.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\pagamento_loja\obj\Debug\net7.0\refint\pagamento_loja.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\pagamento_loja\obj\Debug\net7.0\pagamento_loja.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\pagamento_loja\obj\Debug\net7.0\pagamento_loja.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\Treinamentos\exercicios_Csharp\pagamento_loja\obj\Debug\net7.0\ref\pagamento_loja.dll
